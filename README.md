@@ -1,1 +1,1 @@
-# data-viz-challenge
+This is my completed Module 5 data visualization challenge script and files.
